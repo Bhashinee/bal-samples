@@ -2,7 +2,7 @@
 org = "gabilan"
 name = "log_automation"
 version = "0.1.0"
-distribution = "2201.11.0"
+distribution = "2201.13.7"
 
 [build-options]
 observabilityIncluded = true
